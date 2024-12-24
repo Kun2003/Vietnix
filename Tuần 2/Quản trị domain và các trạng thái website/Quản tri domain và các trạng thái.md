@@ -1,4 +1,3 @@
-﻿**Tuần 2: Thực hành**
 
 1. **Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**
 
