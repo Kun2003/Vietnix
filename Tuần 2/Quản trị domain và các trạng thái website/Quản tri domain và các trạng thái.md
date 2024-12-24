@@ -1,5 +1,4 @@
-
-1. **Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**
+**Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**
 
    ![](Aspose.Words.b03668a7-cb84-4dcb-95fd-b6e3be8cfdfa.001.png)
 
