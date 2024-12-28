@@ -4,7 +4,7 @@
 
 **cPanel**
 
-![Giới thiệu cPanel căn bản cho người mới bắt đầu - Wiki Minh Duy Solutions](Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.001.png)
+![https://github.com/Kun2003/Vietnix/blob/main/Tuần%201/Tìm%20hiểu%20các%20loại%20Control%20Panel/hình%20ảnh/Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.001.png)
 
 cPanel là một hệ thống quản trị mạng phổ biến và mạnh mẽ, thường được sử dụng trong lĩnh vực quản lý web hosting cung cấp một giao diện đồ họa dễ sử dụng.
 
