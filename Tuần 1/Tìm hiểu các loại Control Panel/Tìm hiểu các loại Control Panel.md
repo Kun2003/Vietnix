@@ -66,7 +66,7 @@ Ngoài ra có một số tính năng về Email, quản lí File, Database, Doma
 
 
 
-1. **CyberPanel**
+2. **CyberPanel**
 
    ![Hướng dẫn cài đặt CyberPanel trên Almalinux 8](https://github.com/Kun2003/Vietnix/blob/main/Tuần%201/Tìm%20hiểu%20các%20loại%20Control%20Panel/hình%20ảnh/Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.006.png)
 
@@ -109,7 +109,7 @@ Ngoài ra có một số tính năng về Email, quản lí File, Database, Doma
 
 
 
-1. **VestaCP**
+3. **VestaCP**
 
    VestaCP là một control Panel web Hosting miễn phí được viết bằng Bash Shell. Nền tảng này dễ cài đặt và cấu hình bảng điều khiển thường được dựa trên nền tảng Linux.
 
@@ -138,7 +138,7 @@ Ngoài ra có một số tính năng về Email, quản lí File, Database, Doma
 
 
 
-1. **DirectAdmin**
+4. **DirectAdmin**
 
    ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%201/Tìm%20hiểu%20các%20loại%20Control%20Panel/hình%20ảnh/Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.013.png)
 
@@ -162,7 +162,7 @@ Giao diện DirectAdmin sau khi đăng nhập thành công
 
 
 
-1. **AApanel**
+5. **AApanel**
 
    ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%201/Tìm%20hiểu%20các%20loại%20Control%20Panel/hình%20ảnh/Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.016.png)
 
