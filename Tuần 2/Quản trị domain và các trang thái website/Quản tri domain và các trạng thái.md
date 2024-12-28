@@ -66,7 +66,7 @@ Lỗi 401 xảy ra khi người dùng truy cập vào một website và website 
 
 
 
-3. **Trạng thái 302**
+3. **Trạng thái 302**(Found)
 
 ![](Aspose.Words.f372acd2-4727-430e-b468-ed98a31d3acc.006.png)
 
@@ -74,7 +74,7 @@ Lỗi 401 xảy ra khi người dùng truy cập vào một website và website 
 
 Trạng thái 302 thông báo rằng website người dùng truy cập tạm thời sẽ chuyển hướng đến một url khác, điều này xảy ra khi website chính đang được sửa lỗi hoặc cập nhật 
 
-4. **Trạng thái 301**
+4. **Trạng thái 301** (Moved permanently)
 
 ![](Aspose.Words.f372acd2-4727-430e-b468-ed98a31d3acc.007.png)
 
