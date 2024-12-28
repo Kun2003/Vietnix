@@ -1,4 +1,5 @@
-﻿**Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**
+﻿**Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**/n
+ 
 Sử dụng Whois để tra cứu thông tin về tên miền
 
 ![](Aspose.Words.f372acd2-4727-430e-b468-ed98a31d3acc.001.png)
