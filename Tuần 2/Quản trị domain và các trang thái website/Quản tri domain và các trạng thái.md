@@ -1,4 +1,4 @@
-﻿**Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**/n
+﻿**Quản trị domain, kiểm tra thông tin Domain, các trạng thái của 1 domain cần có, take notes với những trạng thái bạn cho rằng ảnh hưởng tới việc truy cập 1 website.**
  
 Sử dụng Whois để tra cứu thông tin về tên miền
 
