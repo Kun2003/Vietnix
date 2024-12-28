@@ -15,7 +15,7 @@ cPanel là một hệ thống quản trị mạng phổ biến và mạnh mẽ, 
 
 **WHM** 
 
-![2025] WHM là gì? | So Sánh sự khác nhau giữa WHM & cPanel](Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.002.jpeg)
+![alt](Tuần 1/Tìm hiểu các loại Control Panel/hình ảnh/Aspose.Words.3c41551d-cdfd-45a1-a21c-f2c558e547cc.002.jpeg)
 
 Web Hosting Manager (viết tắt là WHM) là một hệ thống quản lý quan trọng trong lĩnh vực quản trị máy chủ và dịch vụ lưu trữ trên internet. Được tích hợp trên các máy chủ dành riêng cho việc cung cấp dịch vụ lưu trữ website, ứng dụng và dịch vụ trực tuyến, WHM cho phép người quản trị có khả năng kiểm soát toàn bộ tài nguyên và cài đặt trên máy chủ một cách hiệu quả.
 
