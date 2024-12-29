@@ -28,6 +28,7 @@ Tiến hành cài đặt webserver apache cho máy chủ
 **Ta thấy apache2 đã ở trạng thái active (running)**
 
 ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/Reverse%20Proxy/hình%20ảnh/Aspose.Words.f4104cb1-1ed8-49d5-86d0-7433c65b7b13.005.png)
+
 Tiến hành truy cập website apache2 bằng địa chỉ IP của máy chủ
 
 Như hình thì ta đã cài đặt thành công rồi!
