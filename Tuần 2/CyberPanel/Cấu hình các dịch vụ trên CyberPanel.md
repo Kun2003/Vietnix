@@ -171,9 +171,13 @@ Tiến hành gửi thư từ <test1@neiji.space> tới <test2@neiji.space>
 
    Tiến hành tạo user/password để cài đặt Wordpress
 
-   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.026.png)Tiến hành quá trình cài đặt Wordpress
+   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.026.png)
 
-   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.027.png)Cài đặt thành công
+   Tiến hành quá trình cài đặt Wordpress
+
+   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.027.png)
+
+   Cài đặt thành công
 
    ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.028.png)Website thay đổi sau khi cài đặt thành công wordpress
 
@@ -209,7 +213,9 @@ Tiến hành gửi thư từ <test1@neiji.space> tới <test2@neiji.space>
 
    Kiểm tra list account FTP
 
-   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.036.png)Tiến hành sử dụng winSCP để truy cập vào FTP
+   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.036.png)
+
+   Tiến hành sử dụng winSCP để truy cập vào FTP
 
    ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.037.png)
 
