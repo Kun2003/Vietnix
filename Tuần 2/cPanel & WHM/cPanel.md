@@ -1,6 +1,6 @@
 ﻿**cPanel & WHM**
 
-![](Aspose.Words.c247bd77-3d51-4808-8a8e-ad850090ed6e.001.png)
+![alt](Tuần 2/cPanel & WHM/hinh anh/Aspose.Words.c247bd77-3d51-4808-8a8e-ad850090ed6e.001.png)
 
 Giao diện đăng nhập của cPanel với port login là 2083
 
