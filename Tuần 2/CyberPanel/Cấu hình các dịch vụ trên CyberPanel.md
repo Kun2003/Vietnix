@@ -87,7 +87,7 @@
 
 
 
-1. **Tạo https trên CyberPanel**
+1. **Cấu hình SSL trên CyberPanel**
 
    ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.010.png)
 
