@@ -142,5 +142,5 @@ Tiến hành truy cập lại địa chỉ ip của máy chủ
 
 ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/Reverse%20Proxy/hình%20ảnh/Aspose.Words.f4104cb1-1ed8-49d5-86d0-7433c65b7b13.016.png)
 
-Ta có thể thấy ta cấu hình dịch vụ trên Apache nhưng ở đây hiển thị là nginx như vậy ta đã cấu hình thành công Reverse Proxy
+Ta có thể thấy ta cấu hình dịch vụ website trên Apache nhưng ở đây hiển thị là nginx như vậy ta đã cấu hình thành công Reverse Proxy
 
