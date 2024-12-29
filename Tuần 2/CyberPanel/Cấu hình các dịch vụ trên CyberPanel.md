@@ -207,7 +207,9 @@ Tiến hành gửi thư từ <test1@neiji.space> tới <test2@neiji.space>
 
    Tiến hành vào FTP->Create FTP Account
 
-   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.034.png)Tiến hành lựa chọn website cùng với username và password
+   ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.034.png)
+
+   Tiến hành lựa chọn website cùng với username và password
 
    ![alt](https://github.com/Kun2003/Vietnix/blob/main/Tuần%202/CyberPanel/hinh%20anh/Aspose.Words.29c24d6c-bdbe-4cdb-ad25-6786e8da7486.035.png)
 
