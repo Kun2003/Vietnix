@@ -57,11 +57,11 @@ Chọn hành động (Allow, Block, hoặc Allow if secure).
 
 
 
-`	`**2.3. Quản lý Firewall trên PowerShell**
+**2.3. Quản lý Firewall trên PowerShell**
 
-`		`**Kiểm tra trạng thái Firewall:**
+**Kiểm tra trạng thái Firewall:**
 
-`				`Get-NetFirewallProfile
+`Get-NetFirewallProfile
 
 **Kích hoạt hoặc vô hiệu hóa Firewall:**
 
