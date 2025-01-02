@@ -69,7 +69,7 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled True
 
 **Thêm quy tắc Firewall:**
 **
-`		`New-NetFirewallRule -DisplayName "Allow HTTP" -Direction Inbound -Protocol TCP -LocalPort 80 -Action Allow
+`New-NetFirewallRule -DisplayName "Allow HTTP" -Direction Inbound -Protocol TCP -LocalPort 80 -Action Allow
 
 1. **Các lưu ý khi sử dụng Firewall trong Window Server**
 - Đảm bảo kiểm tra kỹ các quy tắc trước khi áp dụng để tránh làm gián đoạn dịch vụ.
